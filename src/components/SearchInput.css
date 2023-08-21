@@ -1,0 +1,24 @@
+.search-container {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  .search-input {
+    padding: 8px;
+    border: 2px solid #729aee;
+    border-radius: 4px;
+    font-size: 14px;
+    width: 50%;
+    margin-left: 20px;
+  }
+  
+  .search-input:focus {
+    outline: none;
+    border-color: #007bff;
+    box-shadow: 0 0 0 2px rgba(0, 123, 255, 0.25);
+  }
+  
